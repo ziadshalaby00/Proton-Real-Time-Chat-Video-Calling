@@ -2,6 +2,12 @@
 
 > A full-stack real-time communication platform built with **Django** and **Angular 22**, featuring instant messaging, rich media sharing, WebRTC audio/video calling, and secure authentication.
 
+<p align="center">
+  <img src="./imgs/Proton-05-02-2026_06_00_PM.png" width="32%">
+  <img src="./imgs/Proton-05-02-2026_05_58_PM.png" width="32%">
+  <img src="./imgs/Proton-05-02-2026_05_53_PM.png" width="32%">
+</p>
+
 ## ✨ Features
 
 * 💬 Real-time messaging with WebSockets
