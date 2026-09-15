@@ -1,5 +1,11 @@
 # 📱 Proton — Real-Time Chat & Video Calling
 
+<p align="center">
+  🎨 <b>Frontend</b> — <a href="https://github.com/ziadshalaby00/Angular-chat-project">Angular-chat-project</a>
+  <br>
+  ⚙️ <b>Backend</b> — <a href="https://github.com/ziadshalaby00/Django-Chat-project">Django-Chat-project</a>
+</p>
+
 > A full-stack real-time communication platform built with **Django** and **Angular 22**, featuring instant messaging, rich media sharing, WebRTC audio/video calling, and secure authentication.
 
 <p align="center">
@@ -55,32 +61,6 @@ User A ◄──────────► User B
 ```
 
 Django Channels handles real-time communication and WebRTC signaling, while WebRTC establishes the peer-to-peer media connection.
-
-## 📂 Repositories
-
-### 🎨 Frontend
-
-[Angular-chat-project](https://github.com/ziadshalaby00/Angular-chat-project)
-
-Angular 22 frontend with WebRTC calling, WebSockets, PWA, and responsive UI.
-
-### ⚙️ Backend
-
-[Django-Chat-project](https://github.com/ziadshalaby00/Django-Chat-project)
-
-Django REST + Channels backend providing APIs, authentication, real-time messaging, WebRTC signaling, and background processing.
-
-## 🚀 Getting Started
-
-For installation and configuration, see the setup instructions in the individual repositories:
-
-* **Frontend:** [Angular-chat-project](https://github.com/ziadshalaby00/Angular-chat-project)
-* **Backend:** [Django-Chat-project](https://github.com/ziadshalaby00/Django-Chat-project)
-
-## 📜 License
-
-* Backend — **MIT License**
-* Frontend — **ISC License**
 
 ---
 
