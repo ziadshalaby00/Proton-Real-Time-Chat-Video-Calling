@@ -1,4 +1,4 @@
-# 📱 Proton — Real-Time Chat & Video Calling
+# Proton — Real-Time Chat & Video Calling
 
 <p align="center">
   🎨 <b>Frontend</b> — <a href="https://github.com/ziadshalaby00/Angular-chat-project">Angular-chat-project</a>
